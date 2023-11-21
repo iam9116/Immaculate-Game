@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "AS - Codey Raceway",
+"productVersion": "0.1",
+"dataUrl": "AS - Cacaday Racacaway.data.unityweb",
+"wasmCodeUrl": "AS - Cacaday Racacaway.wasm.code.unityweb",
+"wasmFrameworkUrl": "AS - Cacaday Racacaway.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
